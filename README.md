@@ -2,7 +2,7 @@ Estoy preparando mis proyectos para subirlos hoy y enlazar los links de mi curri
 
 
 <br><br><br><br>
-
+# TripleTen LatAm (Practicum)
 These are the projects I tackled on the Data Scientist course in [TripleTen LatAm](https://Tripleten.com/data-science/).
 
 | Topic                 | Project               | Description                                                                                 | Highlights & Libraries         |
